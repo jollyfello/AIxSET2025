@@ -1,0 +1,5 @@
+System,Layer,Threat,ACC,MUC,DKR,SCP,BHP,SOM,DET,TEC,RLV,RFC,BR,SMM
+ExampleSysA,Model I/O,Prompt to design hemolysin variant,High,High,High,Low,High,High,High,Functional,None,Confirmed,High,Moderate
+ExampleSysA,Data Provenance,Poison eval with toxin motifs,Medium,Medium,Medium,Medium,High,Medium,Medium,PoC,Workaround,Reasonable,Medium,Advanced
+ExampleSysB,Integration,One-click export to synthesis,Medium,Medium,Medium,Medium,High,High,Medium,Functional,None,Confirmed,High,Minimal
+ExampleSysC,Ecosystem,Leaked checkpoint enabling toxin search,High,High,Medium,High,High,High,High,Active,None,Confirmed,High,Minimal
